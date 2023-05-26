@@ -6,7 +6,7 @@ love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" width="400px"/>
   
 ### 🧐 More About Me:
 
