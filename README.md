@@ -21,6 +21,7 @@ love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠
 ### 🔨 Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://cdn.worldvectorlogo.com/logos/html-1.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://cdn.worldvectorlogo.com/logos/css-3.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src='https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg'> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://static.cdnlogo.com/logos/j/44/javascript.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height ="42px"/> </a>
