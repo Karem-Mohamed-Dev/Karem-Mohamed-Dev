@@ -11,8 +11,8 @@ love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🌱 &nbsp; I’m currently learning Next.JS; 
+- 🔭 &nbsp; I’m currently working on **Ecommerce Website**
+- 🌱 &nbsp; I’m currently learning NodeJs; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/karem-mohamed-a789a6239/)
 <!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing) -->
