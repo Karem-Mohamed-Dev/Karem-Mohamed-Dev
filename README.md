@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Karim Mohamed!
 
-I am Front-End Developer 🌐.
+I am Full-Stack Developer 🌐.
 </br>
 love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. </br>
 <a href='https://karimdev.vercel.app/' target='_blank' >Visit my website</a>
@@ -11,8 +11,8 @@ love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Ecommerce Website**
-- 🌱 &nbsp; I’m currently learning NodeJs; 
+- 🔭 &nbsp; I’m currently working on **Socila Media Api**
+- 🌱 &nbsp; I’m currently Building Projects With NodeJs; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/karem-mohamed-a789a6239/)
 <!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing) -->
@@ -29,3 +29,6 @@ love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://www.wpgraphql.com/_next/image?url=%2Flogos%2Flogo-nextjs.png&w=256&q=75" alt="NextJs" height ="42px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://nodejs.org/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://expressjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" align="left" alt="git" height='42px'/> </a>
